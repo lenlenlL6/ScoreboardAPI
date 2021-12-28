@@ -10,3 +10,13 @@ It will automatically send to the $player.
 ```
 $this->api->createScoreboard($player, $objectiveName, $displayName);
 ```
+# Remove Scoreboard
+It will automatically delete Scoreboard with $objectiveName objective if $player has that Scoreboard.
+```
+$this->api->removeScoreboard($player, $objectiveName);
+```
+# Add Entry
+It will automatically add an entry to the Scoreboard with the objective $objectiveName with the score $score and the character $text.
+```
+$this->api->addEntry($player, $objectiveName, $score, $text);
+```
