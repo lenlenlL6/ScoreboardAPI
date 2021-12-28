@@ -1,3 +1,8 @@
+[![](https://poggit.pmmp.io/shield.state/Scoreboard-API)](https://poggit.pmmp.io/p/Scoreboard-API)
+<a href="https://poggit.pmmp.io/p/Scoreboard-API"><img src="https://poggit.pmmp.io/shield.state/Scoreboard-API"></a>
+
+[![](https://poggit.pmmp.io/shield.api/Scoreboard-API)](https://poggit.pmmp.io/p/Scoreboard-API)
+<a href="https://poggit.pmmp.io/p/Scoreboard-API"><img src="https://poggit.pmmp.io/shield.api/Scoreboard-API"></a>
 # ScoreboardAPI
 A plugin that helps developers create a scoreboard easily using available APIs
 # How to use APIs?
