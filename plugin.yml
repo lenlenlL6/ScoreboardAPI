@@ -1,0 +1,5 @@
+name: ScoreboardAPI
+main: pmmdst\scoreboardapi\ScoreboardAPI
+author: pmmdst
+api: 3.0.0
+version: 0.0.1
